@@ -20,4 +20,10 @@ font-family:  Comic Sans MS;
   box-shadow: 5px 10px;
 }
 
+#for_video
+{
+display:block;
+margin: 0 auto;
+width:800px;  
 
+}
